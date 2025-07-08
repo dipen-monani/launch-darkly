@@ -14,7 +14,8 @@
 -> Follow the instruction and then create the flag
 
 In below image we have created sample feature flag
-![img.png](img.png)
+![image](https://github.com/user-attachments/assets/0ca93956-a25e-4959-8a9f-dd3b1b375c67)
+
 
 We can create a new flag and set the specific rule which scenario we need to enable this flag
 
